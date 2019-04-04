@@ -1,0 +1,1 @@
+git add %1 & git commit -m %2 & git remote add origin https://github.com/ubuki/hagiwara.git & git push -u origin master
